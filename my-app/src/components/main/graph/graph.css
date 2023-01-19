@@ -1,0 +1,45 @@
+.default {
+  margin: 0 !important;
+}
+
+.card-graph {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 15px;
+  margin-top: 30px;
+}
+.cardin-graph {
+  width: 500px;
+  height: 290px;
+  margin-left: 30px;
+  background-color: #272a3e;
+}
+.graphline2 {
+  display: flex;
+  align-items: center;
+}
+.gicons {
+  width: 16px;
+  height: 16px;
+}
+.graph-align {
+  padding-left: 10px;
+  padding-top: 15px;
+}
+.graph-align1 {
+  color: hsla(0, 0%, 100%, 0.6);
+  font-size: 12px;
+}
+.graph-align2 {
+  color: white;
+  font-weight: 100;
+  padding-left: 10px;
+}
+.graphline2 {
+  padding-top: 5px;
+}
+.graph1 {
+  width: 280px;
+  height: 180px;
+  margin-top: 25px;
+}

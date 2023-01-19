@@ -1,0 +1,63 @@
+.sidebox {
+  background-color: #1e1f2f;
+  position: fixed;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.insidebox {
+  background-color: #1e1e2f;
+  margin-left: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.he {
+  margin: 0 !important;
+  color: white;
+  font-weight: 400;
+  padding-left: 10px;
+  padding-top: 20px;
+  font-size: 14px;
+  padding-bottom: 20px;
+}
+.lineside {
+  width: 200px;
+  margin-left: 10px;
+}
+.sidemenutext {
+  color: hsla(0, 0%, 100%, 0.6);
+  font-weight: 200;
+  width: 60%;
+  padding-left: 20px;
+  padding-top: 10px;
+  font-size: 9px;
+  margin-bottom: 25px;
+  text-align: start;
+}
+.sidealign1 {
+  display: flex;
+  align-items: center;
+}
+.sideicons1 {
+  width: 23px;
+  height: 23px;
+  margin-left: 20px;
+}
+.sideflex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.sideflex1 {
+  display: flex;
+  align-items: center;
+}
+.sideicons2 {
+  width: 15px;
+  height: 15px;
+  margin-left: 20px;
+}
+.sideicons3 {
+  width: 10px;
+  padding-bottom: 5px;
+}
+.triend {
+  padding-right: 30px;
+}

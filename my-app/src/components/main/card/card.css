@@ -1,0 +1,54 @@
+.card {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 15px;
+}
+.cardin {
+  width: 250px;
+  height: 130px;
+  margin-left: 30px;
+  background-color: #272a3e;
+  box-shadow: 0 1px 20px 0 rgb(0 0 0 / 10%);
+  border-radius: 3px;
+}
+.default {
+  margin: 0 !important;
+}
+.colortype1 {
+  color: hsla(0, 0%, 100%, 0.6);
+  font-size: 12px;
+}
+.colortype2 {
+  color: white;
+  font-weight: 100;
+}
+.align1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.align2 {
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+}
+.profileicon {
+  width: 45px;
+}
+.profileicon2 {
+  width: 13px;
+  height: 13px;
+  color: hsla(0, 0%, 100%, 0.6);
+}
+.title-align {
+  text-align: end;
+}
+.horline {
+  margin-top: 25px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-color: #2b3553;
+  width: 200px;
+}
+.positionfoot {
+  padding-left: 8px;
+}

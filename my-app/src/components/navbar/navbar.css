@@ -1,0 +1,55 @@
+.contain {
+  display: flex;
+  background-color: #1e1f2f;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  padding-bottom: 10px;
+}
+.nav-start {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 40px;
+}
+.menubar {
+  color: white;
+}
+.nav-title {
+  color: white;
+  font-weight: 200;
+  margin-left: 30px;
+}
+
+.nav-end {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 10px;
+}
+.icon1 {
+  color: white;
+  margin-right: 120px;
+  padding-top: 15px;
+  font-size: 20px;
+}
+.pic1 {
+  width: 30px;
+  height: 30px;
+  clip-path: circle();
+  margin-right: 5px;
+}
+.searchcon {
+  width: 20px;
+  height: 20px;
+  padding-right: 30px;
+}
+.triangle {
+  width: 10px;
+  height: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}
+.last1 {
+  padding-right: 30px;
+}

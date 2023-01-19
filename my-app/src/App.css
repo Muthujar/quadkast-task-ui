@@ -1,0 +1,10 @@
+.centre {
+  display: flex;
+  background-color: #1e1e2f;
+}
+.side {
+  width: 20%;
+}
+.main {
+  width: 80%;
+}

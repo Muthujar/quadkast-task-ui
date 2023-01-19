@@ -1,0 +1,149 @@
+.card-notif {
+  margin-right: 15px;
+  margin-top: 30px;
+}
+.cardin-notif {
+  width: 400px;
+  height: 430px;
+  margin-left: 30px;
+  background-color: #272a3e;
+}
+.total-card {
+  display: flex;
+  padding-bottom: 90px;
+}
+.card-table {
+  margin-right: 15px;
+  margin-top: 30px;
+}
+.cardin-table {
+  width: 535px;
+  height: 430px;
+  margin-left: 15px;
+  background-color: #272a3e;
+}
+.profile {
+  width: 30px;
+  clip-path: circle();
+  margin-left: 20px;
+}
+.table-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+tbody tr td {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-color: #2b3553;
+  color: #ffffffb3;
+  font-size: 14px;
+}
+thead tr td {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-color: #2b3553;
+  color: rgb(225, 226, 239);
+  font-size: 12px;
+  font-weight: 500;
+}
+.notehead {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+}
+.noteh1 {
+  display: flex;
+  padding: 10px;
+}
+.notrow1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.notif-line1 {
+  color: white;
+  font-size: 11px;
+}
+.notif-line2 {
+  color: #6c757d;
+  font-size: 12px;
+  padding-left: 20px;
+}
+.notif-lineicon {
+  margin-right: 15px;
+}
+.tri {
+  width: 10px;
+  padding-bottom: 5px;
+  padding-left: 2px;
+}
+.gear {
+  width: 15px;
+}
+.pencil {
+  width: 15px;
+  height: 15px;
+}
+.pencil-align {
+  margin-right: 20px;
+}
+.alignnotif1 {
+  padding-left: 30px;
+  color: rgb(225, 226, 239);
+  font-size: 14px;
+  font-weight: 500;
+}
+.alignnotif2 {
+  padding-left: 30px;
+  color: #6c757d;
+  font-size: 14px;
+}
+.horline-not {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-color: #2b3553;
+  width: 370px;
+}
+.reload {
+  width: 18px;
+  height: 18px;
+  padding-left: 50px;
+}
+.close {
+  width: 25px;
+  height: 25px;
+  padding-left: 10px;
+}
+.table-title {
+  color: #fff;
+  font-weight: 100;
+  font-size: 13px;
+  margin-left: 15px;
+}
+.table-head {
+  padding-bottom: 10px;
+}
+.table-icons-head {
+  padding-right: 15px;
+}
+
+td {
+  padding-top: 5px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+}
+.table-center {
+  margin-left: 10px;
+}
+.tab-align-3 {
+  padding-left: 40px;
+}
+.tab-align-2 {
+  padding-left: 20px;
+}
+.tab-align-0 {
+  padding-left: 30px;
+}
+.tab-align-4 {
+  padding-left: 70px;
+}
