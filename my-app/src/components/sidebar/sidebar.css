@@ -6,7 +6,7 @@
 .insidebox {
   background-color: #1e1e2f;
   margin-left: 20px;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  height: 100vh;
 }
 .he {
   margin: 0 !important;
